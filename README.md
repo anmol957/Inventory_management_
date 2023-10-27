@@ -1,11 +1,5 @@
-# Responsive landing page using HTML CSS & JavaScript
+# Project Status
+### 🚧 Work in Progress 🚧
 
-### [Watch it on YouTube](https://youtu.be/RdCJmh_Hi5k)
-
-#### Responsive landing page using HTML CSS & JavaScript
-
-![Responsive-landing-page](https://user-images.githubusercontent.com/57999016/136793287-eebafb08-e294-489c-a597-0dbd1d0649cb.png)
-
-
-
+## I am currently in the process of enhancing the UI design and adding more information to this website. Please note that this project is primarily for showcasing purposes and is still under development.
 
